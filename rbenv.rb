@@ -96,7 +96,7 @@ dep 'ruby', :version, :patchlevel, :prefix do
 end
 
 dep '2.0.0.rbenv' do
-  patchlevel 'rc2'
+  patchlevel 'p195'
 end
 
 dep '1.9.3.rbenv' do
